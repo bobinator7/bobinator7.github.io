@@ -37,6 +37,27 @@ plugins:
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 Lazy Brainer. All rights reserved."
 
+# Set a path/url to a logo that will be displayed instead of the title
+# logo: "/assets/images/just-the-docs.png"
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
+# Enable support for hyphenated search words:
+search_tokenizer_separator: /[\s/]+/
+
+# Aux links for the upper right navigation
+#aux_links:
+#  "Just the Docs on GitHub":
+#      - "//github.com/pmarsceill/just-the-docs"
+
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+#
+# Supports true (default) or false/nil
+heading_anchors: true
+
 color_scheme: "dark"
 
 # Exclude from processing.
