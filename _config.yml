@@ -21,44 +21,19 @@
 title: Lazy Brainer
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Awesome placeholder description!
+  Lazy Brain provides a space for condense information and ideas, which promote effective procedures for common tasks. The goal is to minimize unnecessary actions in order to maximize leisure time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.lazybrain.net" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
 github_username: Bobinator7
 repository: Bobinator7/Bobinator7.github.io
 
 # Build settings
-# theme: "just-the-docs"
-remote_theme: pmarsceill/just-the-docs
-plugins:
-  - jekyll-feed
+theme: minima
+#plugins:
+#  - jekyll-feed
 
-# Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020 Lazy Brainer. All rights reserved."
-
-# Set a path/url to a logo that will be displayed instead of the title
-# logo: "/assets/images/just-the-docs.png"
-
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
-
-# Enable support for hyphenated search words:
-search_tokenizer_separator: /[\s/]+/
-
-# Aux links for the upper right navigation
-#aux_links:
-#  "Just the Docs on GitHub":
-#      - "//github.com/pmarsceill/just-the-docs"
-
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false/nil
-heading_anchors: true
-
-color_scheme: "dark"
+# minima settings
+minima:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
