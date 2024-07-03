@@ -18,3 +18,9 @@ For theme documentation visit [Material for MkDocs](https://squidfunk.github.io/
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+### Environment
+
+- Create local venv: `python3 -m venv .venv`
+- Install deps: `pip install mkdocs-material`
+- Serve page: `mkdocs serve`
