@@ -64,7 +64,7 @@ I strongly believe that the creativity and high ethical standards are best foste
 ### Technical Skills
 - (Bio-inspired) Neural network design and optimization (Pytorch, Tensorflow)
 - Real-time digital signal processing (incl. hardware accelerators for DNNs)
-- ASIC design flow from circuit-level to RTL-level design (Cadence, Siemens/Mentor, Synopsys EDA tools)
+- ASIC/FPGA design flow from circuit-level to RTL-level design (Cadence, Siemens/Mentor, Synopsys EDA tools; Xilinx/Altera)
 - Data analysis (Scipy, MATLAB etc.)
 - Programming and Scripting (C/C++, MATLAB/Simulink, Python, Perl, Tcl etc.)
 - Robotics (Sensor-fusion, i.e. Camera, LIDAR etc.; SLAM)
@@ -110,14 +110,14 @@ I strongly believe that the creativity and high ethical standards are best foste
 ## Teaching
 
 - **Supervised Students**
-    - Jianan Wen (M.Sc.), 2020 - Logic design of an Energy-Efficient CNN for ECG Classification based on Wavelet Transformation
-    - Qiwei Zhang (M.Sc.), 2020 - Automated Design Space Exploration for Hardware Implementations of Structured Datapaths
-    - Junhong Li (M.Sc.), 2020 - Exploration of Hardware Architectures for ECG Classification using ResNet Architectures
-    - Louis Cherel (M.Sc.), 2021 - Hardware Architectures for 1D Sparsely Encoded Neural Networks
-    - Maxim Drobjazko (M.Sc.), 2022 - Recurrent NN Hardware-Architectures for Time-Continuous Biomedical Signals
-    - Justus Viga (M.Sc.), 2022 - In-Field Individualisation of Classification-/Detectionsystems for Biomedical Signals
-    - Adeola Adebayo (M.Sc.), 2023 - Hardware-Supported On-the-fly Domain Generalization for ECG Classification
-    - 6 student research assistants (+ 4 co-supervised) 
+    - Jianan Wen (M.Sc. - Thesis), 2020 - Logic design of an Energy-Efficient CNN for ECG Classification based on Wavelet Transformation
+    - Qiwei Zhang (M.Sc. - Thesis), 2020 - Automated Design Space Exploration for Hardware Implementations of Structured Datapaths
+    - Junhong Li (M.Sc. - Thesis), 2020 - Exploration of Hardware Architectures for ECG Classification using ResNet Architectures
+    - Louis Cherel (M.Sc. - Thesis), 2021 - Hardware Architectures for 1D Sparsely Encoded Neural Networks
+    - Maxim Drobjazko (M.Sc. - Thesis), 2022 - Recurrent NN Hardware-Architectures for Time-Continuous Biomedical Signals
+    - Justus Viga (M.Sc. - Thesis), 2022 - In-Field Individualisation of Classification-/Detectionsystems for Biomedical Signals
+    - Adeola Adebayo (M.Sc. - Thesis), 2023 - Hardware-Supported On-the-fly Domain Generalization for ECG Classification
+    - Additional 6 student research assistants (+ 4 co-supervised) 
   <!-- - Student research assistants: Toma Gavric, Yu-Hsuan Tai, Abdulrahman Ali Hasan, Lyubov Dudchenko, Vinh Hai Luong, Niloufar Bateni, Tim Stadtmann (co-supervised), Amin Abbasloo (co-supervised), Zain Methab (co-supervised), Nivin Clinton Arokyaraj (co-supervised) -->
 - **Lectures and Labs**
     - Supervision of 
