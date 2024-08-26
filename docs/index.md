@@ -7,49 +7,53 @@ As a generalist with many interests, I like to challenge myself in new applicati
 I thrive most in multi-disciplinary projects and I like to solve them in a multi-cultural harmonious team. 
 I strongly believe that the creativity and high ethical standards are best fostered in a diverse team and are necessary to solve the challenges of the future.
 
-??? note "Project Summary"
-    - PhD Candidate at [Chair of Integrated Digital Systems and Circuit Design](https://www.ids.rwth-aachen.de/en/)
-        - Project coordination of [BMBF Clusters4Future](https://www.bmbf.de/bmbf/de/forschung/zukunftsstrategie/zukunftscluster-initiative-clusters4future/zukunftscluster-initiative-clusters4future_node.html), [NeuroSys Project C, Algorithm-Hardware Co-Design](https://neurosys.info/projekte/)
-        - DNN architecture design and optimization
-            - Reduced complexity domain generalization algorithms for co-optimized ANNs ([Paper](https://dx.doi.org/10.1109/TBCAS.2024.3418085))
-            - Lossless sparse temporal coding for ANN-SNN conversion ([Paper](https://dx.doi.org/10.23919/DATE56975.2023.10137112))
-            - Dataflow optimization for subsampling-based TCN accelerators (incl. tapeout in GF22FDX; [Paper1](https://dx.doi.org/10.1109/norcas57515.2022.9934591), [Paper2](https://dx.doi.org/10.1109/tvlsi.2023.3329360))
-            - High quality atrial fibrillation classification using downsized convolutional neural network ([Paper](https://dx.doi.org/10.1109/ASAP49362.2020.00042))
-            - Energy estimation of ANN inference for computer vision models with different dataflows using simplified memory model
-        - General ML explorations and profiling
-            - Exploration of ML architectures (e.g. Autoencoder, LSTM, GRU) and methods (e.g. data augmentation, quantization, partial NN update etc.) for ECG classification/anomaly detection
-            - [BMBF Innovationswettbewerb "Elektronik für energiesparsame Informations- und Kommunikationstechnik"](https://www.elektronikforschung.de/service/aktuelles/innovationswettbewerb-elektronik-fuer-energiesparsame-informations-und-kommunikationstechnik) - GIGA, Traffic monitoring using acoustic MEMS sensors and beamforming
-            - Hierarchical cascaded classifier exploration ([Paper](https://dx.doi.org/10.1007/978-3-030-95470-3_32), [Patent](https://worldwide.espacenet.com/patent/search/family/077175963/publication/DE102020202391A1?q=DE102020202391%20A1))
-        - Contributions to other projects
-            - Vehicle surroundings perception ([Paper](https://dx.doi.org/10.1002/aisy.202300679))
-            - Modified split learning ([Paper](https://dx.doi.org/10.1109/icics60529.2023.10330472))
-            - Depthwise separable convolution accelerator for computer vision models ([Paper](https://dx.doi.org/10.1109/vlsi-soc57769.2023.10321918))
-            - [Intel neuromorphic DNS challenge](https://github.com/IntelLabs/IntelNeuromorphicDNSChallenge) - Submission: [Noice](https://github.com/thebarnable/noice)
-            - Structured data path design ([Paper](https://dx.doi.org/10.1109/islped58423.2023.10244608))
-            - Finite impulse response (FIR) filter exploration study in TSMC28 for high throughput digital echo cancellation (DEC)
-    - Master's
-        - Simultaneous Localization and Mapping (SLAM) and basic navigation for [SeekurJr robot](https://robots.ros.org/seekurjr/) in [VEROSIM](https://www.verosim-solutions.com/) (Master's Thesis at [Institute for Man-Machine Interaction](https://www.mmi.rwth-aachen.de/en/))
-            - Seekur Jr is equipped with 3 front, 1 rear camera (calibrated/interfaced with OpenCV) and one front LIDAR
-            - Extended and Unscented Kalman Filter with extensible state variable for SLAM
-            - SLAM map consists of hybrid grid and feature map in 2D space
-            - Navigation is realized with global gridmap-based path planning and local collision avoidance
-            - Implementation is integrated into proprietary VEROSIM environment (custom micro kernel architecture) with numerical computing libraries, e.g. Eigen library
-        - Integration of SLAM features for existing ROS framework (Internship at [Fraunhofer IPA group](https://github.com/ipa320), now: [NODE Robotics](https://node-robotics.com/))
-            - Implementation of adaptive partical filter with KLD sampling
-            - Implementation of GPS and RFID sensor modules with modular integration into ROS framework
-                - Sensor fusion through particle filter algorithm in SLAM implementation
-            - Implementation of map conversion algorithms between low-resolution normal distribution transform (NDT) and high-resolution gridmaps
-                - Conversion algorithm is partially based on classifical computer vision methods, e.g. Bresenham adapted to ellipsoids or wavefront algorithms 
-        - Implementation of SLAM and navigation features in [PenguiPi robot](https://github.com/qcr/PenguinPi-robot) (Exchange semester in Queensland University of Technology)
-            - Beacon-based localization detected through commercially available camera modules
-            - Image pre-processing and noise reduction for reliable beacon detection in distance
-            - Motor encoder and actuation calibration for reliable navigation in unknown environment
-            - [(Backup Repo)](https://github.com/bobinator7/EGB439)
-        - R&D support for cardiac support systems (Student research assistant at [Institute of Automatic Control](https://www.irt.rwth-aachen.de/go/id/iung/?lidx=1))
-            - Prototype development of printed circuit board (PCB) designs for sensor read-out and actuation
-            - Embedded programming of microcontrollers in C/C++ and basic system modeling using standardized open-source specifications like functional mock-up interface (FMI)
-    - Bachelor's
-        - Analysis and Control of a Mechanical-Rotational Impedance Actuator - [MeRIA](https://publications.rwth-aachen.de/record/780722/files/780722.pdf) (Bachelor's Thesis at [Medical Information Technology (MedIT), Helmholtz-Institute for Biomedical Engineering](https://www.medit.hia.rwth-aachen.de/en/))
+??? note "Project Summary PhD"
+    - PhD Candidate at [Chair of Integrated Digital Systems and Circuit Design, RWTH Aachen University](https://www.ids.rwth-aachen.de/en/)
+    - Project coordination of [BMBF Clusters4Future](https://www.bmbf.de/bmbf/de/forschung/zukunftsstrategie/zukunftscluster-initiative-clusters4future/zukunftscluster-initiative-clusters4future_node.html), [NeuroSys Project C, Algorithm-Hardware Co-Design](https://neurosys.info/projekte/)
+    - DNN architecture design and optimization
+        - Reduced complexity domain generalization algorithms for co-optimized ANNs ([Paper](https://dx.doi.org/10.1109/TBCAS.2024.3418085))
+        - Lossless sparse temporal coding for ANN-SNN conversion ([Paper](https://dx.doi.org/10.23919/DATE56975.2023.10137112))
+        - Dataflow optimization for subsampling-based TCN accelerators (incl. tapeout in GF22FDX; [Paper1](https://dx.doi.org/10.1109/norcas57515.2022.9934591), [Paper2](https://dx.doi.org/10.1109/tvlsi.2023.3329360))
+        - High quality atrial fibrillation classification using downsized convolutional neural network ([Paper](https://dx.doi.org/10.1109/ASAP49362.2020.00042))
+        - Energy estimation of ANN inference for computer vision models with different dataflows using simplified memory model
+    - General ML explorations and profiling
+        - Exploration of ML architectures (e.g. Autoencoder, LSTM, GRU) and methods (e.g. data augmentation, quantization, partial NN update etc.) for ECG classification/anomaly detection
+        - [BMBF Innovationswettbewerb "Elektronik für energiesparsame Informations- und Kommunikationstechnik"](https://www.elektronikforschung.de/service/aktuelles/innovationswettbewerb-elektronik-fuer-energiesparsame-informations-und-kommunikationstechnik) - GIGA, Traffic monitoring using acoustic MEMS sensors and beamforming
+        - Hierarchical cascaded classifier exploration ([Paper](https://dx.doi.org/10.1007/978-3-030-95470-3_32), [Patent](https://worldwide.espacenet.com/patent/search/family/077175963/publication/DE102020202391A1?q=DE102020202391%20A1))
+    - Contributions to other projects
+        - Vehicle surroundings perception ([Paper](https://dx.doi.org/10.1002/aisy.202300679))
+        - Modified split learning ([Paper](https://dx.doi.org/10.1109/icics60529.2023.10330472))
+        - Depthwise separable convolution accelerator for computer vision models ([Paper](https://dx.doi.org/10.1109/vlsi-soc57769.2023.10321918))
+        - [Intel neuromorphic DNS challenge](https://github.com/IntelLabs/IntelNeuromorphicDNSChallenge) - Submission: [Noice](https://github.com/thebarnable/noice)
+        - Structured data path design ([Paper](https://dx.doi.org/10.1109/islped58423.2023.10244608))
+        - Finite impulse response (FIR) filter exploration study in TSMC28 for high throughput digital echo cancellation (DEC)
+
+??? note "Project Summary Master"
+    - Master studies at RWTH Aachen University in Electrical Engineering, Information Technology and Computer Engineering 
+    - Simultaneous Localization and Mapping (SLAM) and basic navigation for [SeekurJr robot](https://robots.ros.org/seekurjr/) in [VEROSIM](https://www.verosim-solutions.com/) (Master's Thesis at [Institute for Man-Machine Interaction](https://www.mmi.rwth-aachen.de/en/)) ([Thesis (ger)](./assets/files/ma_thesis.pdf))
+        - Seekur Jr is equipped with 3 front, 1 rear camera (calibrated/interfaced with OpenCV) and one front LIDAR
+        - Extended and Unscented Kalman Filter with extensible state variable for SLAM
+        - SLAM map consists of hybrid grid and feature map in 2D space
+        - Navigation is realized with global gridmap-based path planning and local collision avoidance
+        - Implementation is integrated into proprietary VEROSIM environment (custom micro kernel architecture) with numerical computing libraries, e.g. Eigen library
+    - Integration of SLAM features for existing ROS framework (Internship at [Fraunhofer IPA group](https://github.com/ipa320), now: [NODE Robotics](https://node-robotics.com/)) ([Report (ger)](./assets/files/intern_report.pdf))
+        - Implementation of adaptive partical filter with KLD sampling
+        - Implementation of GPS and RFID sensor modules with modular integration into ROS framework
+            - Sensor fusion through particle filter algorithm in SLAM implementation
+        - Implementation of map conversion algorithms between low-resolution normal distribution transform (NDT) and high-resolution gridmaps
+            - Conversion algorithm is partially based on classifical computer vision methods, e.g. Bresenham adapted to ellipsoids or wavefront algorithms 
+    - Implementation of SLAM and navigation features in [PenguiPi robot](https://github.com/qcr/PenguinPi-robot) (Exchange semester in Queensland University of Technology)
+        - Beacon-based localization detected through commercially available camera modules
+        - Image pre-processing and noise reduction for reliable beacon detection in distance
+        - Motor encoder and actuation calibration for reliable navigation in unknown environment
+        - [(Backup Repo)](https://github.com/bobinator7/EGB439)
+    - R&D support for cardiac support systems (Student research assistant at [Institute of Automatic Control](https://www.irt.rwth-aachen.de/go/id/iung/?lidx=1))
+        - Prototype development of printed circuit board (PCB) designs for sensor read-out and actuation
+        - Embedded programming of microcontrollers in C/C++ and basic system modeling using standardized open-source specifications like functional mock-up interface (FMI)
+
+??? note "Project Summary Bachelor"
+    - Bachelor studies at RWTH Aachen University in Electrical Engineering, Information Technology and Computer Engineering
+        - Analysis and Control of a Mechanical-Rotational Impedance Actuator - [MeRIA](https://publications.rwth-aachen.de/record/780722/files/780722.pdf) (Bachelor's Thesis at [Medical Information Technology (MedIT), Helmholtz-Institute for Biomedical Engineering](https://www.medit.hia.rwth-aachen.de/en/)) ([Thesis (ger)](./assets/files/ba_thesis.pdf))
             - Modeling of a variable stiffness actuator based on a cantilever design with variable beam length
             - Cascaded control of torque and position using PID controllers
             - Implementation of safety mechanisms for emergency power shutdowns
