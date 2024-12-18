@@ -63,6 +63,7 @@ I strongly believe that the creativity and high ethical standards are best foste
             - Process automization of script generation for lecture supporting exercises
             - Supervision and support of student groups up to 30
 
+ <!--
 ## Skills
 
 ### Technical Skills
@@ -80,6 +81,7 @@ I strongly believe that the creativity and high ethical standards are best foste
 - Science communication for broad and specialized audience
 - Initiation of workflows and organizational tooling for more efficient collaboration (e.g. research data management, code version control etc.)
 - Inter-cultural and multi-disciplinary teamwork
+-->
 
 ## Disseminations
 
