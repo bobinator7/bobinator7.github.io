@@ -5,7 +5,7 @@
 My professional passion is to improve general human health and well-being through technological solutions.
 As a generalist with many interests, I like to challenge myself in new application fields with a recent focus on bio-inspired computing in biomedical signal monitoring and I am looking forward to my next career challenge.
 I thrive most in multi-disciplinary projects and I like to solve them in a multi-cultural harmonious team. 
-I strongly believe that the creativity and high ethical standards are best fostered in a diverse team and are necessary to solve the challenges of the future.
+I strongly believe that challenges of the future are best solved in a creative diverse team with good ethical standards.
 
 ??? note "Project Summary PhD"
     - PhD Candidate at [Chair of Integrated Digital Systems and Circuit Design, RWTH Aachen University](https://www.ids.rwth-aachen.de/en/)
