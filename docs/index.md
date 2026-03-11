@@ -1,11 +1,12 @@
 # Johnson Loh
 
-## Senior Embedded Machine Learning Engineer at Innatera
+## Summary
 
-My research interest is the intersection of machine learning, neuroscience and specialized hardware.
+Interested in AI system architecture spanning novel machine learning algorithms and specialized hardware.
 
-??? note "Project Summary PhD"
-    - PhD Candidate at [Chair of Integrated Digital Systems and Circuit Design, RWTH Aachen University](https://www.ids.rwth-aachen.de/en/)
+??? note "PhD - Algorithm-Hardware Co-Design for Neuromorphic Computing"
+    - PhD degree (magna cum laude) at RWTH Aachen University in Electrical Engineering, Information Technology and Computer Engineering 
+    - Neuro-inspired hardware acceleration for efficient biomedical signal processing in mobile sensing devices (PhD Thesis at [Chair of Integrated Digital Systems and Circuit Design, RWTH Aachen University](https://www.ids.rwth-aachen.de/en/))([Thesis (en)](https://publications.rwth-aachen.de/record/1013853))
     - Project coordination of [BMBF Clusters4Future](https://www.bmbf.de/bmbf/de/forschung/zukunftsstrategie/zukunftscluster-initiative-clusters4future/zukunftscluster-initiative-clusters4future_node.html), [NeuroSys Project C, Algorithm-Hardware Co-Design](https://neurosys.info/projekte/)
     - DNN architecture design and optimization
         - Reduced complexity domain generalization algorithms for co-optimized ANNs ([Paper](https://dx.doi.org/10.1109/TBCAS.2024.3418085))
@@ -24,8 +25,11 @@ My research interest is the intersection of machine learning, neuroscience and s
         - [Intel neuromorphic DNS challenge](https://github.com/IntelLabs/IntelNeuromorphicDNSChallenge) - Submission: [Noice](https://github.com/thebarnable/noice)
         - Structured data path design ([Paper](https://dx.doi.org/10.1109/islped58423.2023.10244608))
         - Finite impulse response (FIR) filter exploration study in TSMC28 for high throughput digital echo cancellation (DEC)
+    - Co-Founder of Gelofanga UG (LEI: 8945003L6E5WQGRKWE82)
+    - Co-Founder of neuroAIx e.V. ([Website](https://neuroaix.de/))
 
-??? note "Project Summary Master"
+
+??? note "MSc - Mobile Robotics for Autonomous Ground Vehicles"
     - Master studies at RWTH Aachen University in Electrical Engineering, Information Technology and Computer Engineering 
     - Simultaneous Localization and Mapping (SLAM) and basic navigation for [SeekurJr robot](https://robots.ros.org/seekurjr/) in [VEROSIM](https://www.verosim-solutions.com/) (Master's Thesis at [Institute for Man-Machine Interaction](https://www.mmi.rwth-aachen.de/en/)) ([Thesis (ger)](./assets/files/ma_thesis.pdf))
         - Seekur Jr is equipped with 3 front, 1 rear camera (calibrated/interfaced with OpenCV) and one front LIDAR
@@ -48,7 +52,7 @@ My research interest is the intersection of machine learning, neuroscience and s
         - Prototype development of printed circuit board (PCB) designs for sensor read-out and actuation
         - Embedded programming of microcontrollers in C/C++ and basic system modeling using standardized open-source specifications like functional mock-up interface (FMI)
 
-??? note "Project Summary Bachelor"
+??? note "BSc - Exoskeleton Actuator Control"
     - Bachelor studies at RWTH Aachen University in Electrical Engineering, Information Technology and Computer Engineering
         - Analysis and Control of a Mechanical-Rotational Impedance Actuator - [MeRIA](https://publications.rwth-aachen.de/record/780722/files/780722.pdf) (Bachelor's Thesis at [Medical Information Technology (MedIT), Helmholtz-Institute for Biomedical Engineering](https://www.medit.hia.rwth-aachen.de/en/)) ([Thesis (ger)](./assets/files/ba_thesis.pdf))
             - Modeling of a variable stiffness actuator based on a cantilever design with variable beam length
