@@ -1,11 +1,8 @@
 # Johnson Loh
 
-## Biography
+## Senior Embedded Machine Learning Engineer at Innatera
 
-My professional passion is to improve general human health and well-being through technological solutions.
-As a generalist with many interests, I like to challenge myself in new application fields with a recent focus on bio-inspired computing in biomedical signal monitoring and I am looking forward to my next career challenge.
-I thrive most in multi-disciplinary projects and I like to solve them in a multi-cultural harmonious team. 
-I strongly believe that challenges of the future are best solved in a creative diverse team with good ethical standards.
+My research interest is the intersection of machine learning, neuroscience and specialized hardware.
 
 ??? note "Project Summary PhD"
     - PhD Candidate at [Chair of Integrated Digital Systems and Circuit Design, RWTH Aachen University](https://www.ids.rwth-aachen.de/en/)
@@ -107,9 +104,9 @@ I strongly believe that challenges of the future are best solved in a creative d
 
 - **J. Loh**, J. Wen and T. Gemmeke, "Low-Cost DNN Hardware Accelerator for Wearable, High-Quality Cardiac Arrythmia Detection," 2020 IEEE 31st International Conference on Application-specific Systems, Architectures and Processors (ASAP), Manchester, UK, 2020, pp. 213-216, doi: [10.1109/ASAP49362.2020.00042](https://dx.doi.org/10.1109/ASAP49362.2020.00042).
 
-### Patent Applications
+### Patents
 
-- M. Lahr, R. Foell, T. Gemmeke and **J. Loh**, "PKW-Umgebungswahrnehmung mit MEMS Inertialsensoren und digitaler Auswertelogik," German Patent and Trade Mark Office, *submitted Aug. 4, 2023*.
+- M. Lahr, R. Foell, T. Gemmeke and **J. Loh**, "PKW-Umgebungswahrnehmung mit MEMS Inertialsensoren und digitaler Auswertelogik," German Patent and Trade Mark Office, *issued Feb. 6, 2025*.
 
 - T. Gemmeke, **J. Loh**, C. Höffler, A. Schmeink and A. Ayad, "Energieoptimierte Vorrichtung zur Klassifizierung von Daten," German Patent and Trade Mark Office, Patent No. [DE102020202391A1](https://worldwide.espacenet.com/patent/search/family/077175963/publication/DE102020202391A1?q=DE102020202391%20A1), *published Aug. 26, 2021*, (discontinued Jan. 15, 2022).
 
